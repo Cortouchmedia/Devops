@@ -1,7 +1,7 @@
 {
   "name": "devops-project",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "nodejs.yml",
   "scripts": {
     "test": "jest"
   },
