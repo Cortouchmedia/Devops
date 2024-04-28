@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest"
-  }, // Added comma here
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
